@@ -2,6 +2,7 @@
 
 int main()
 {
+    // day la chuong trinh doi cho hai so su dung con tro
     float a, b;
     scanf("%f", &a);
     scanf("%f", &b);
